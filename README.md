@@ -1,4 +1,4 @@
-# 🚀 PortfolioForge - Intelligent Portfolio Optimization Platform
+# PortfolioForge: Intelligent Portfolio Optimization Platform
 
 ## Overview
 
